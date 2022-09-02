@@ -10,7 +10,7 @@
 #### Branch > New branch
 
 ### Switch to that branch (line of development)
-#### Current branch > <select your branch>
+#### Current branch > select your branch
 
 ### Make changes, for example, edit `intro.md` or add a file using the text editor
 
@@ -19,7 +19,7 @@
 #### 2. Add a meaningful commit message.
 
 ### Commit to the branch
-#### Click on "Commit to <branch>"
+#### Click on "Commit to branch_name"
 
 ### Publish your branch to remote
 #### "Publish branch"
